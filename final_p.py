@@ -301,3 +301,4 @@ Considerar la implementación de promociones o incentivos específicos para los 
 
 El análisis realizado sugiere que existen áreas significativas de mejora en la interacción entre los operadores y los usuarios. Implementar las recomendaciones proporcionadas no solo puede ayudar a identificar operadores ineficaces, sino también a mejorar la experiencia del cliente en general, lo que es fundamental para el éxito a largo plazo en la industria de telecomunicaciones.
 """
+# Results: https://drive.google.com/file/d/1w2WHftugqI0TsIefJUiucbQGRyMMpn5e/view?usp=sharing
